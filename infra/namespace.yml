@@ -4,4 +4,4 @@ metadata:
   name: development
   labels:
     name: development
-    app: test
+    app: test1
