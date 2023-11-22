@@ -5,4 +5,4 @@ metadata:
   labels:
     name: {{.Values.name}}
     bu: {{.Values.bu}}
-    istio-injection: enabled
+    istio.io/rev: stable
