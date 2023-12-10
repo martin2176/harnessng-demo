@@ -1,2 +1,2 @@
-name: <+pipeline.variables.env>-<+pipeline.variables.namespace>
+name: <+pipeline.variables.serviceteam>-<+pipeline.variables.env>-<+pipeline.variables.namespace>
 bu: <+pipeline.variables.businessunit>
